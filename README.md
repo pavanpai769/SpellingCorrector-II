@@ -1,0 +1,3 @@
+# Spelling Corrector - II
+
+The Spelling Corrector implemented with a Trie data structure, provides a fundamental spell-checking application in Java. This implementation allows users to load words from a specified file into the Trie, which serves as a dictionary for quick lookups. The class includes methods to verify the correctness of a word and to suggest similar words based on the minimum edit distance. By utilizing a dynamic programming approach to calculate edit distances, the spell corrector can effectively recommend alternative words for those that are misspelled.
