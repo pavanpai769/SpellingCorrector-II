@@ -1,4 +1,4 @@
-package com.pavanpai.codes.model;
+package com.spellcorrector.model;
 
 import java.util.List;
 

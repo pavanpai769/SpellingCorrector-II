@@ -1,7 +1,9 @@
-package com.pavanpai.codes.model;
+package com.spellcorrector.model;
 
 public interface ITrieNode {
     TrieNode[] getChildren();
+
     boolean isWord();
+
     void setIsWord(boolean isWord);
 }
